@@ -14,11 +14,15 @@ public class Ogrenci{
         // non static ctor!!!
         NesneSayisiStatic++;
 
-        NesneSayisiNonStatic++;
     } 
 
     public static int NesneSayisiStatic { get; set; } 
-    public int NesneSayisiNonStatic { get; set; }
+ 
+
+    // Static sınıfın üyesidir;!!!
+    // NonStatic nesnenin üyesidir!!
+
+    // Static tüm nesneleri kapsar!! çünkü nesnelerden üstündür ve bağımsız hareket eder!!!
 
 
     public void DersCalis(){

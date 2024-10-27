@@ -12,3 +12,4 @@
 /Users/emrahelis/Static_Kavrami2/obj/Debug/net8.0/Static_Kavrami2.pdb
 /Users/emrahelis/Static_Kavrami2/obj/Debug/net8.0/Static_Kavrami2.genruntimeconfig.cache
 /Users/emrahelis/Static_Kavrami2/obj/Debug/net8.0/ref/Static_Kavrami2.dll
+/Users/emrahelis/Static_Kavrami2/obj/Debug/net8.0/Static_Kavrami2.sourcelink.json

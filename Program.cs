@@ -15,4 +15,7 @@ Ogrenci o2 = new Ogrenci();
 
 Console.WriteLine("Nesne Sayisi : "+Ogrenci.NesneSayisiStatic);
 
-Console.WriteLine("Nesne Sayisi : "+o2.NesneSayisiNonStatic);
+o2=null;
+
+
+Console.WriteLine("Nesne Sayisi : "+Ogrenci.NesneSayisiStatic);
