@@ -1,0 +1,14 @@
+/Users/emrahelis/Static_Kavrami2/bin/Debug/net8.0/Static_Kavrami2
+/Users/emrahelis/Static_Kavrami2/bin/Debug/net8.0/Static_Kavrami2.deps.json
+/Users/emrahelis/Static_Kavrami2/bin/Debug/net8.0/Static_Kavrami2.runtimeconfig.json
+/Users/emrahelis/Static_Kavrami2/bin/Debug/net8.0/Static_Kavrami2.dll
+/Users/emrahelis/Static_Kavrami2/bin/Debug/net8.0/Static_Kavrami2.pdb
+/Users/emrahelis/Static_Kavrami2/obj/Debug/net8.0/Static_Kavrami2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Static_Kavrami2/obj/Debug/net8.0/Static_Kavrami2.AssemblyInfoInputs.cache
+/Users/emrahelis/Static_Kavrami2/obj/Debug/net8.0/Static_Kavrami2.AssemblyInfo.cs
+/Users/emrahelis/Static_Kavrami2/obj/Debug/net8.0/Static_Kavrami2.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Static_Kavrami2/obj/Debug/net8.0/Static_Kavrami2.dll
+/Users/emrahelis/Static_Kavrami2/obj/Debug/net8.0/refint/Static_Kavrami2.dll
+/Users/emrahelis/Static_Kavrami2/obj/Debug/net8.0/Static_Kavrami2.pdb
+/Users/emrahelis/Static_Kavrami2/obj/Debug/net8.0/Static_Kavrami2.genruntimeconfig.cache
+/Users/emrahelis/Static_Kavrami2/obj/Debug/net8.0/ref/Static_Kavrami2.dll
